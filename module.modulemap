@@ -1,5 +1,5 @@
 module COrvibo [system] {
-  header "orvibo.h"
+  header "orvibo_bridging.h"
   link "orvibo"
   export *
 }
