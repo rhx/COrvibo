@@ -1,2 +1,2 @@
 # COrvibo
-A wrapper for using orvibo from Swift
+A bridging module for using the [Orvibo Smart WiFi Plug library](https://github.com/OllieDay/orvibo) from Swift.
